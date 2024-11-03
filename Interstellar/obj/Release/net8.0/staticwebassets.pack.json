@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Interstellar.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Interstellar.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\background-crew-desktop.jpg",
+      "PackagePath": "staticwebassets\\Img\\crew\\background-crew-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\background-crew-mobile.jpg",
+      "PackagePath": "staticwebassets\\Img\\crew\\background-crew-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\background-crew-tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\crew\\background-crew-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-anousheh-ansari.png",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-anousheh-ansari.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-anousheh-ansari.webp",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-anousheh-ansari.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-douglas-hurley.png",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-douglas-hurley.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-douglas-hurley.webp",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-douglas-hurley.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-mark-shuttleworth.png",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-mark-shuttleworth.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-mark-shuttleworth.webp",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-mark-shuttleworth.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-victor-glover.png",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-victor-glover.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\crew\\image-victor-glover.webp",
+      "PackagePath": "staticwebassets\\Img\\crew\\image-victor-glover.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\background-destination-desktop.jpg",
+      "PackagePath": "staticwebassets\\Img\\destination\\background-destination-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\background-destination-mobile.jpg",
+      "PackagePath": "staticwebassets\\Img\\destination\\background-destination-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\background-destination-tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\destination\\background-destination-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-europa.png",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-europa.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-europa.webp",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-europa.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-mars.png",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-mars.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-mars.webp",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-mars.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-moon.png",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-moon.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-moon.webp",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-moon.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-titan.png",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-titan.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\destination\\image-titan.webp",
+      "PackagePath": "staticwebassets\\Img\\destination\\image-titan.webp"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\favicon.png",
+      "PackagePath": "staticwebassets\\Img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\home\\background-home-desktop.jpg",
+      "PackagePath": "staticwebassets\\Img\\home\\background-home-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\home\\background-home-mobile.jpg",
+      "PackagePath": "staticwebassets\\Img\\home\\background-home-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\home\\background-home-tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\home\\background-home-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\home\\earth.jpg",
+      "PackagePath": "staticwebassets\\Img\\home\\earth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\shared\\icon-close.svg",
+      "PackagePath": "staticwebassets\\Img\\shared\\icon-close.svg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\shared\\icon-hamburger.svg",
+      "PackagePath": "staticwebassets\\Img\\shared\\icon-hamburger.svg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\shared\\logo.svg",
+      "PackagePath": "staticwebassets\\Img\\shared\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\background-technology-desktop.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\background-technology-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\background-technology-mobile.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\background-technology-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\background-technology-tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\background-technology-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-launch-vehicle-landscape.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-launch-vehicle-landscape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-launch-vehicle-portrait.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-launch-vehicle-portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-space-capsule-landscape.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-space-capsule-landscape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-space-capsule-portrait.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-space-capsule-portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-spaceport-landscape.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-spaceport-landscape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\Img\\technology\\image-spaceport-portrait.jpg",
+      "PackagePath": "staticwebassets\\Img\\technology\\image-spaceport-portrait.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\css\\Crew\\crew.css",
+      "PackagePath": "staticwebassets\\css\\Crew\\crew.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\css\\Destination\\Destination.css",
+      "PackagePath": "staticwebassets\\css\\Destination\\Destination.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\css\\Home\\home.css",
+      "PackagePath": "staticwebassets\\css\\Home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\css\\Technology\\technology.css",
+      "PackagePath": "staticwebassets\\css\\Technology\\technology.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\Crew\\crew.js",
+      "PackagePath": "staticwebassets\\js\\Crew\\crew.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\Destination\\destination.js",
+      "PackagePath": "staticwebassets\\js\\Destination\\destination.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\Home\\home.js",
+      "PackagePath": "staticwebassets\\js\\Home\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\Technology\\technology.js",
+      "PackagePath": "staticwebassets\\js\\Technology\\technology.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\CSSRulePlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\CSSRulePlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\CSSRulePlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\CSSRulePlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\CustomEase.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\CustomEase.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\CustomEase.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\CustomEase.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Draggable.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\Draggable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Draggable.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\Draggable.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\EasePack.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\EasePack.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\EasePack.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\EasePack.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\EaselPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\EaselPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\EaselPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\EaselPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Flip.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\Flip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Flip.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\Flip.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\MotionPathPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\MotionPathPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\MotionPathPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\MotionPathPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Observer.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\Observer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\Observer.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\Observer.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\PixiPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\PixiPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\PixiPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\PixiPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\ScrollToPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\ScrollToPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\ScrollTrigger.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\ScrollTrigger.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\TextPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\TextPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\TextPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\TextPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\gsap.min.js",
+      "PackagePath": "staticwebassets\\js\\gsap\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\gsap\\gsap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\gsap\\gsap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pmarrero\\OneDrive - Laboratorios Andromaco SAICI\\Escritorio\\proyectos\\space-tourism-website-main\\space\\Interstellar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Interstellar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Interstellar.props",
+      "PackagePath": "build\\Interstellar.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Interstellar.props",
+      "PackagePath": "buildMultiTargeting\\Interstellar.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Interstellar.props",
+      "PackagePath": "buildTransitive\\Interstellar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

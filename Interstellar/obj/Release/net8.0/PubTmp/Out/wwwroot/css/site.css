@@ -1,0 +1,181 @@
+:root {
+    --colorText:rgb(109, 109, 109);
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100vw;
+  background-image: url("../../Img/home/background-home-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  min-height: 100vh;
+  height: 100vh;
+}
+
+main{
+  min-height: calc(100vh - 150px);
+  display: flex;
+}
+
+main>div{
+  flex: 1;
+}
+
+header{
+  height: 150px;
+}
+.navLayout{
+  height: 90px;
+  backdrop-filter: blur(15px);
+  background-blend-mode: luminosity;
+}
+
+.navigation>li{
+  letter-spacing: 1px;
+  position: relative;
+}
+
+.navigation>li>a::after{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: white;
+  transition: width 0.2s ease-in-out;
+}
+
+.navigation>li>a:hover::after{
+  width: 100%;
+}
+
+
+.big-letter{
+  font-size: 120px;
+  color: white;
+}
+
+
+.halant-light {
+  font-family: "Halant", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.halant-regular {
+  font-family: "Halant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.halant-medium {
+  font-family: "Halant", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.halant-semibold {
+  font-family: "Halant", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.halant-bold {
+  font-family: "Halant", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.p-technology{
+  color: #656776;
+}
+
+@media screen and (max-width : 920px) {
+
+  header{
+    position: relative;
+    z-index: 12;
+  }
+
+  .navLayout{
+    display: flex;
+    justify-content: end;
+    height: auto !important;
+    position: relative;
+
+      height: 90px;
+      backdrop-filter: initial;
+    
+  }
+
+
+  #menu{
+    position: absolute;
+    right: 20%;
+    top: 100%;
+    height: auto !important;
+    padding: 5%;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #0B0D19;
+  }
+
+  .navigation{
+    height: auto !important;
+    padding: 3%;
+  }
+
+  .navigation li{
+    width: 100%;
+  }
+  .navigation a{
+    color: #4A4C55 !important;
+    text-align: end;
+    width: 100%;
+  }
+
+  .navigation a>strong{
+    color: #4A4C55 !important;
+  }
+
+
+
+  
+
+  /* #menu>ul{
+    align-items: end;
+    justify-content: end;
+    
+  } */
+
+
+  .button-menu{
+    position: relative;
+    margin-right: 20% !important;
+  }
+
+  main{
+    position: relative;
+    z-index: 1;
+
+  }
+  /* .button-menu:active{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  } */
+}
+
+@media screen and (max-width : 425px) {
+  body{
+    width: 425px;
+    
+  } 
+}

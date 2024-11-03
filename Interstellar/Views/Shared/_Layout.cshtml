@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Interstellar</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Interstellar.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Home/home.css" asp-append-version="true"/> 
+    <link rel="stylesheet" href="~/css/Destination/Destination.css" asp-append-version="true"/> 
+    <link rel="stylesheet" href="~/css/Crew/crew.css" asp-append-version="true"/> 
+    <link rel="stylesheet" href="~/css/Technology/technology.css" asp-append-version="true"/> 
+
+
+    <link rel="shortcut icon" href="~/Img/shared/logo.svg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header class="w-100 row d-flex justify-content-center align-items-center">
+        <div class="col-6 ps-5 d-flex flex-nowrap">
+            <a asp-area="Homes" asp-controller="Home" asp-action="Index" class="me-5">
+                <img src="~/Img/shared/logo.svg" alt="logoPage">
+            </a>
+            <span>___________________________________________________________________________</span>
+        </div>
+
+        <nav class="col-6 navbar navbar-expand-lg navLayout">
+            <div class="collapse navbar-collapse h-100" id="menu">
+                <ul class="navbar-nav me-auto navigation w-100 h-100 d-flex justify-content-evenly align-items-lg-center">
+                    <li class="nav-item h-100 d-flex align-items-center">
+                        <a asp-area="Homes" asp-controller="Home" asp-action="Index" class="nav-link text-white ">
+                            <strong class="text-white fw-medium">00</strong> Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item h-100 d-flex align-items-center">
+                        <a asp-area="Destination" asp-controller="Destination" asp-action="Index" class="nav-link text-white">
+                            <strong class="text-white fw-medium">01</strong> Destination
+                        </a>
+                    </li>
+                    
+                    <li class="nav-item h-100 d-flex align-items-center">
+                        <a asp-area="Crew" asp-controller="Crew" asp-action="Index" class="nav-link text-white">
+                            <strong class="text-white fw-medium">02</strong> Crew
+                        </a>
+                    </li>
+
+                    <li class="nav-item h-100 d-flex align-items-center">
+                        <a asp-area="Technology" asp-controller="Technology" asp-action="Index" class="nav-link text-white">
+                            <strong class="text-white fw-medium">03</strong> Technology
+                       </a>
+                    </li>
+                </ul>
+            </div>
+
+            <button class="navbar-toggler bg-white button-menu"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#menu"
+                aria-controls="menu"
+                aria-expanded="false"
+                aria-label="Mostrar/Ocultar Menu"
+                >
+                <span class="navbar-toggler-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+                    </svg>
+                </span>
+            </button>
+        </nav>
+    </header>
+    
+    <main role="main" class="container-fluid w-100 ">
+        @RenderBody()
+    </main>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/site.js" asp-append-version="true"></script>
+    <script src="~/js/gsap/gsap.min.js"></script>
+    <script src="~/js/gsap/TextPlugin.min.js"></script>
+    <script src="~/js/gsap/ScrollTrigger.min.js"></script>
+
+    
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

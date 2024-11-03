@@ -1,0 +1,41 @@
+﻿@model Interstellar.Models.Technology
+@{
+    ViewData["Title"] = "Technology";
+}
+
+<div class="row technology container-fluid overflow-y-hidden p-0 ms-0">
+        <h3 class="h3-technology m-auto">03 <span class="text-white">SPACE LAUNCH 101</span></h3>
+        <section class="row px-0">
+            <div class="col-12 col-lg-6 d-flex justify-content-center p-0">
+                <div class="d-flex justify-content-center align-items-center w-75 overflow-hidden content-list">
+                    <nav class="me-lg-5">
+                        <ul class="list-unstyled position-relative ul-technology">
+                            <li class="d-inline-flex bg-white rounded-circle m-2"><a asp-area="Technology" asp-controller="Technology" asp-action="SearchData" asp-route-technology="Launch vehicle" class="nav-link">1</a></li>
+                            <li class="d-inline-flex bg-white rounded-circle m-2"><a asp-area="Technology" asp-controller="Technology" asp-action="SearchData" asp-route-technology="Spaceport" class="nav-link">2</a></li>
+                            <li class="d-inline-flex bg-white rounded-circle m-2"><a asp-area="Technology" asp-controller="Technology" asp-action="SearchData" asp-route-technology="Space capsule" class="nav-link">3</a></li>
+                        </ul>
+                    </nav>
+
+                    <div id="content-info-technology">
+                        <p class="mb-0 p-technology">THE TERMINOLOGY...</p>
+                        <h2 class="display-2 text-white">@Model.Name</h2>
+                        <p class="w-75 p-technology">@Model.Description</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-6 pe-0">
+                <div class="containerImg float-lg-end ">
+                    <div class="cuadrante cuadrante1" style="background-image: url('@Model.Images.Portrait');"></div>
+                    <div class="cuadrante cuadrante2" style="background-image: url('@Model.Images.Portrait');"></div>
+                    <div class="cuadrante cuadrante3" style="background-image: url('@Model.Images.Portrait');"></div>
+                    <div class="cuadrante cuadrante4" style="background-image: url('@Model.Images.Portrait');"></div>
+                </div>
+                @* <img src="@Model.Images.Portrait" alt="img @Model.Name" class="float-end"> *@
+            </div>
+    </section>
+</div>
+
+@section Scripts{
+    <script src="~/js/Technology/technology.js"></script>
+}

@@ -1,0 +1,77 @@
+﻿@model Interstellar.Models.Destinations;
+
+@{
+    ViewData["Title"] = "Destination";
+}
+
+
+<div class="row section-destination h-100">
+<section class="col-12 col-lg-6 h-100 d-flex flex-column align-items-center container-lg text-center">
+    <h3 id="h3-destination">01<span class="text-white ms-4"></span></h3>
+
+    <picture class="w-100 d-flex justify-content-lg-endend justify-content-center pe-lg-5" id="">
+        <img src="@Model.Images.Webp" alt="img@{@Model.Name}" id="img-destination" class="img-fluid mt-5 ms-lg-5">
+    </picture>
+</section>
+
+<section class="col-12 col-lg-6 h-100 d-flex align-items-center" id="destination-section">
+    <div class="d-flex flex-column h-75 w-75 align-items-center">
+        <nav class="mb-3 d-flex w-75 total-width-lg">
+            <ul class="nav w-auto d-flex justify-content-between gap-4 position-relative">
+                <li class="nav-item position-relative"><a class="nav-link p-0 nav-underline text-white mb-1" data-destination="moon" asp-area="Destination" asp-controller="Destination" asp-action="SearchData" asp-route-destinationName="moon">MOON</a></li>
+                <li class="nav-item position-relative"><a class="nav-link p-0 nav-underline text-white mb-1" data-destination="mars" asp-area="Destination" asp-controller="Destination" asp-action="SearchData" asp-route-destinationName="mars">MARS</a></li>
+                <li class="nav-item position-relative"><a class="nav-link p-0 nav-underline text-white mb-1" data-destination="europa" asp-area="Destination" asp-controller="Destination" asp-action="SearchData" asp-route-destinationName="europa">EUROPA</a></li>
+                <li class="nav-item position-relative"><a class="nav-link p-0 nav-underline text-white mb-1" data-destination="titan" asp-area="Destination" asp-controller="Destination" asp-action="SearchData" asp-route-destinationName="titan">TITAN</a></li>
+            </ul>
+        </nav>
+
+        <div class="w-75 total-width-lg content-destination">
+            <h2 id="h2Destination" class="big-letter halant-light text-uppercase">@Model.Name</h2>
+            <p id="descriptionDestination" class="descriptionDestination text-white-50">@Model.Description</p>
+        </div>
+
+        <br>
+
+        <div class="w-75 mt-3 d-flex h-auto distance-travel position-relative total-width-lg">
+            <div class="d-inline-flex w-50 mb-5">
+                <div class=" text-white">
+                    <p>AVG. DISTANCE</p>
+                    <p class="halant-light text-uppercase">@Model.Distance</p>
+                </div>
+            </div>
+            <div class="d-inline-flex w-50 mb-5">
+                <div class=" text-white ">
+                    <p>EST. TRAVEL TIME</p>
+                    <p class="halant-light text-uppercase">@Model.Travel</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+</div>
+@section Scripts{
+
+    <script src="~/js/Destination/destination.js"></script>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", ()=>{
+            let elements = document.querySelectorAll("[data-destination]");
+            let url = window.location.href.split("=");
+
+            if(!url[1]){
+                elements[0].classList.add("destination-selected")
+            }
+
+            else{
+                for(let i = 0; i < elements.length;i++){
+                    if(elements[i].href.includes(url[1].toLowerCase())){
+                        elements[i].classList.add("destination-selected")
+                    }
+                }
+            }
+        })
+    </script>
+}
+
